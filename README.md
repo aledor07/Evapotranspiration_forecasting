@@ -1,6 +1,6 @@
-# Predicción de la evapotranspiración potencial mediante el empleo de Prophet
+# Predicción de la evapotranspiración potencial mediante el empleo de Prophet y modelos clásicos
 
-El modelo ha sido entrenado empleando el periodo de 2000-2023, para la estación de SIAR ubicada en el municipio de Puerto de La Cruz. Más información en https://www.icia.es/icia/index.php?option=com_content&view=article&id=2742&Itemid=354&lang=es.
+El modelo Prophet ha sido entrenado empleando el periodo de 2000-2023, para la estación de SIAR ubicada en el municipio de Puerto de La Cruz. Los resultados obtenidos indican un mejor ajuste a la serie temporal que los modelos clásicos ajustados. Más información en https://www.icia.es/icia/index.php?option=com_content&view=article&id=2742&Itemid=354&lang=es.
 
 Los resultados obtenidos se muestran a continuación:
 
