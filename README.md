@@ -1,10 +1,10 @@
-# Predicción de la evapotranspiración potencial mediante el empleo de Prophet y modelos clásicos
+# Prediction of the potential evapotranspiration using Prophet and classical models
 
-El modelo Prophet ha sido entrenado empleando el periodo de 2000-2023, para la estación de SIAR ubicada en el municipio de Puerto de La Cruz. Los resultados obtenidos indican un mejor ajuste a la serie temporal que los modelos clásicos ajustados. Más información en https://www.icia.es/icia/index.php?option=com_content&view=article&id=2742&Itemid=354&lang=es. 
+The Prophet model has been trained using the period 2000-2023, for the SIAR station located in the municipality of Puerto de La Cruz. The results obtained indicate a better fit to the time series than the classical fitted models. More information at https://www.icia.es/icia/index.php?option=com_content&view=article&id=2742&Itemid=354&lang=es. 
 
-La serie histórica se caracteriza por una marcada dispersión en los meses de verano, influenciada por los vientos Alisios y la orografía.
+The historical series is characterised by a marked dispersion in the summer months, influenced by the trade winds and the orography.
 
-Los resultados obtenidos se muestran a continuación:
+The results obtained are shown below:
 
 ![Prophet 2](https://github.com/aledor07/Evapotranspiration_forecasting/assets/86531400/ffea5a01-beba-4f8b-a114-c9b15ba07e81)
 
@@ -20,4 +20,4 @@ Los resultados obtenidos se muestran a continuación:
 
 ## Backtesting
 
-El error absoluto medio porcentual al simular el periodo de 01/05/2022 al 26/05/2023 es del 22.30%, empleando Prophet como método predictivo. Al emplear la evapotranspiración registrada la semana anterior como predicción, el error se reduce hasta el 14.32% .
+The mean absolute percentage error when simulating the period from 01/05/2022 to 26/05/2023 is 22.30%, using Prophet as the prediction method. When using the evapotranspiration recorded the previous week as a prediction, the error is reduced to 14.32%.
