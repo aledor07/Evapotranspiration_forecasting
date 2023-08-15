@@ -1,8 +1,0 @@
-2023-08-13 19:29:01,989:WARNING:c:\ProgramData\Anaconda3\envs\tsa\lib\site-packages\plotly_resampler\aggregation\aggregators.py:25: UserWarning: Could not import lttbc; will use a (slower) python alternative.
-  warnings.warn("Could not import lttbc; will use a (slower) python alternative.")
-
-2023-08-13 19:29:08,439:INFO:Soft dependency imported: prophet: 1.1.4
-2023-08-15 13:00:44,485:WARNING:C:\ProgramData\Anaconda3\envs\tsa\lib\site-packages\plotly_resampler\aggregation\aggregators.py:25: UserWarning: Could not import lttbc; will use a (slower) python alternative.
-  warnings.warn("Could not import lttbc; will use a (slower) python alternative.")
-
-2023-08-15 13:00:48,330:INFO:Soft dependency imported: prophet: 1.1.4
