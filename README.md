@@ -6,9 +6,12 @@ The historical series is characterised by a marked dispersion in the summer mont
 
 The results obtained are shown below:
 
-![Prophet 2](https://github.com/aledor07/Evapotranspiration_forecasting/assets/86531400/ffea5a01-beba-4f8b-a114-c9b15ba07e81)
+![Prophet 1](https://github.com/aledor07/Evapotranspiration_forecasting/assets/86531400/d2406806-e17a-4cb3-a365-6f3dd930768c)
 
-![Prophet 1](https://github.com/aledor07/Evapotranspiration_forecasting/assets/86531400/180cab56-da88-450d-a54d-d31d81feadd5)
+![Prophet 2](https://github.com/aledor07/Evapotranspiration_forecasting/assets/86531400/cd6ff69d-ceab-4cd0-a287-fbcc348e4b7a)
+
+##### <em> 95% confidence intervals </em>
+
 
 
 | **Coefficient** | **Value** |
