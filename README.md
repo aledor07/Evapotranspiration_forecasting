@@ -41,3 +41,5 @@ The graph shows that both methods have an accuracy error of less than 20% most o
 |               | Sum (mm)        | 1011.57   |
 | Previous week | MAPE            | 14.20     |
 |               | Sum (mm)        | 1047.08   |
+
+The historical evapotrasnpiration amount registered in this period is 1045.64 mm.
