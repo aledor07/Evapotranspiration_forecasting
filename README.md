@@ -23,7 +23,7 @@ The results obtained are shown below:
 
 ## Backtesting
 
-The mean absolute percentage error when simulating the period from 01/05/2022 to 26/05/2023 at daily scale is 22.30%.
+The mean absolute percentage error when simulating the period from 01/05/2022 to 26/05/2023 at daily scale and 7 days horizon is 22.30%.
 
 
 ## Prophet vs Previous week demand for a week ahead forecasting
