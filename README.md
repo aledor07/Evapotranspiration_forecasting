@@ -23,4 +23,21 @@ The results obtained are shown below:
 
 ## Backtesting
 
-The mean absolute percentage error when simulating the period from 01/05/2022 to 26/05/2023 is 22.30%, using Prophet as the prediction method. When using the evapotranspiration recorded the previous week as a prediction, the error is reduced to 14.32%.
+The mean absolute percentage error when simulating the period from 01/05/2022 to 26/05/2023 at daily scale is 22.30%.
+
+
+## Prophet vs Previous week demand for a week ahead forecasting
+
+The difference between using the previous week evapotranspiration and Prophet for a week ahead forecasting is shown below. The forecasted period ranges from 05/2022 to 05/2023.
+
+![Puerto de la cruz diferencias](https://github.com/aledor07/Evapotranspiration_forecasting/assets/86531400/99dee836-8a83-4740-ae69-b0ad128052e8)
+
+The graph shows that both methods have an accuracy error of less than 20% most of the year. The accuracy offered by Prophet in the months with the highest demand, compared to the previous week's method, stands out. On the other hand, an overestimation of evapotranspiration can be seen for the months of October and November obtained by Prophet.
+
+
+| **Method**    | **Coefficient** | **Value** |
+|---------------|-----------------|-----------|
+| Prophet       | MAPE            | 11.79     |
+|               | Sum (mm)        | 1011.57   |
+| Previous week | MAPE            | 14.20     |
+|               | Sum (mm)        | 1047.08   |
