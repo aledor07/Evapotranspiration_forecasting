@@ -31,6 +31,7 @@ The results obtained are shown below:
 | **NSE**         | 0.62                  | 0.57             | 0.60           |
 | **R Squared**   | 0.62                  | 0.59             | 0.60           |
 
+Several tests were conducted using additional regressors but no improvement in the results was observed.
 
 ## Backtesting
 
